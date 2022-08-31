@@ -41,13 +41,13 @@ Based on the Metal image filter framework.
 <a href="https://github.com/yangKJ/KJCategories">KJCategories</a>
 </td>
 <td colspan="2">
-ObjectC + Swift
+Objective-C + Swift
 </td>
 <td colspan="2">
 v1.0.7
 </td>
 <td colspan="2">
-Category tool library.
+Category Tool Library.
 </td>
 </tr>
 
