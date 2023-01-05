@@ -32,7 +32,7 @@ Swift + Metal
 v0.5.3
 </td>
 <td colspan="2">
-Based on the Metal image filter framework.
+Based on the Metal filter library, Supports image, video, and camera.
 </td>
 </tr>
 
@@ -48,7 +48,7 @@ Objective-C
 v1.0.7
 </td>
 <td colspan="2">
-Category Tool Library.
+Collection of native ios extensions and classes to boost development process.
 </td>
 </tr>
 
@@ -63,7 +63,7 @@ Swift
 v0.2.5
 </td>
 <td colspan="2">
-Network Tool Architecture.
+Plugin network tool architecture, Supports rxswift, handyjson and moya.
 </td>
 </tr>
 
