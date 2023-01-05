@@ -75,11 +75,9 @@ Network Tool Architecture.
 </td>
 
 <td colspan="2" rowspan="2">
-</a>
 </td>
   
 <td colspan="2" rowspan="2">
-</a>
 </td>
 
 
