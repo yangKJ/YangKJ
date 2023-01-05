@@ -3,6 +3,7 @@
 * **🧸 A drummer is also an ios engineer and loves rock music.**
 * **🎷 E-mail address: [yangkj310@gmail.com](yangkj310@gmail.com)、[ykj310@126.com](ykj310@126.com) 🎷**  
 * **😎 希望可以找到共同爱好的音乐编程朋友做点事情～～**
+* **😍 成都小伙伴可以内推一下，期待与你共事!!!**
 
 <table>
 <tr>
@@ -28,7 +29,7 @@
 Swift + Metal
 </td>
 <td colspan="2">
-v0.2.1
+v0.5.3
 </td>
 <td colspan="2">
 Based on the Metal image filter framework.
@@ -41,7 +42,7 @@ Based on the Metal image filter framework.
 <a href="https://github.com/yangKJ/KJCategories">KJCategories</a>
 </td>
 <td colspan="2">
-Objective-C + Swift
+Objective-C
 </td>
 <td colspan="2">
 v1.0.7
@@ -59,7 +60,7 @@ Category Tool Library.
 Swift
 </td>
 <td colspan="2">
-v0.2.4
+v0.2.5
 </td>
 <td colspan="2">
 Network Tool Architecture.
@@ -74,14 +75,10 @@ Network Tool Architecture.
 </td>
 
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=yangKJ&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=yangKJ&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
 </a>
 </td>
   
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yangKJ&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangKJ&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
 </a>
 </td>
 
