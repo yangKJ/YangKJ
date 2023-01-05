@@ -71,7 +71,7 @@ Network Tool Architecture.
   
 <tr>
 <td colspan="8">
-<em><samp>🎷 Can you buy me a cup of coffee? <a href="https://www.buymeacoffee.com/yangkj3102">Find me</a> :)</samp></em>
+<em><samp>🎷 Can you buy me a cup of coffee? <a href="https://www.buymeacoffee.com/yangkj3102">Find me</a> :) Thanks!</samp></em>
 </td>
 
 </td>
